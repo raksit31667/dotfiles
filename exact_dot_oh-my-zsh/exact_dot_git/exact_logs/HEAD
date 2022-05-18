@@ -11,3 +11,25 @@
 3427da4057dbe302933a7b5b19b4e23bfb9d0969 3427da4057dbe302933a7b5b19b4e23bfb9d0969 Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1645252453 +0700	reset: moving to HEAD
 3427da4057dbe302933a7b5b19b4e23bfb9d0969 3427da4057dbe302933a7b5b19b4e23bfb9d0969 Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1645252460 +0700	checkout: moving from master to master
 3427da4057dbe302933a7b5b19b4e23bfb9d0969 3427da4057dbe302933a7b5b19b4e23bfb9d0969 Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1645252461 +0700	checkout: moving from master to master
+3427da4057dbe302933a7b5b19b4e23bfb9d0969 3427da4057dbe302933a7b5b19b4e23bfb9d0969 Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1646455544 +0700	checkout: moving from master to master
+3427da4057dbe302933a7b5b19b4e23bfb9d0969 af0c3b64b8c7eb6afcdabc8db89241ff72bcc66a Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1646455545 +0700	pull --quiet --rebase origin master: Fast-forward
+af0c3b64b8c7eb6afcdabc8db89241ff72bcc66a af0c3b64b8c7eb6afcdabc8db89241ff72bcc66a Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1646455546 +0700	checkout: moving from master to master
+af0c3b64b8c7eb6afcdabc8db89241ff72bcc66a af0c3b64b8c7eb6afcdabc8db89241ff72bcc66a Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1647674664 +0700	checkout: moving from master to master
+af0c3b64b8c7eb6afcdabc8db89241ff72bcc66a af0c3b64b8c7eb6afcdabc8db89241ff72bcc66a Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1647674664 +0700	checkout: moving from master to master
+af0c3b64b8c7eb6afcdabc8db89241ff72bcc66a af0c3b64b8c7eb6afcdabc8db89241ff72bcc66a Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1647681716 +0700	checkout: moving from master to master
+af0c3b64b8c7eb6afcdabc8db89241ff72bcc66a c96fc233c4903ba75fba5bc55e7f91f9dc8e460e Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1647681718 +0700	pull --quiet --rebase origin master: Fast-forward
+c96fc233c4903ba75fba5bc55e7f91f9dc8e460e c96fc233c4903ba75fba5bc55e7f91f9dc8e460e Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1647681719 +0700	checkout: moving from master to master
+c96fc233c4903ba75fba5bc55e7f91f9dc8e460e c96fc233c4903ba75fba5bc55e7f91f9dc8e460e Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1648773445 +0700	checkout: moving from master to master
+c96fc233c4903ba75fba5bc55e7f91f9dc8e460e 53863e7b3ff0c2e2816e90dab3d870adebdf49c7 Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1648773447 +0700	pull --quiet --rebase origin master: Fast-forward
+53863e7b3ff0c2e2816e90dab3d870adebdf49c7 53863e7b3ff0c2e2816e90dab3d870adebdf49c7 Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1648773448 +0700	checkout: moving from master to master
+53863e7b3ff0c2e2816e90dab3d870adebdf49c7 53863e7b3ff0c2e2816e90dab3d870adebdf49c7 Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1650005315 +0700	checkout: moving from master to master
+53863e7b3ff0c2e2816e90dab3d870adebdf49c7 eb00b95d26e8f264af80f508d50ac32e50619027 Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1650005317 +0700	pull --quiet --rebase origin master: Fast-forward
+eb00b95d26e8f264af80f508d50ac32e50619027 eb00b95d26e8f264af80f508d50ac32e50619027 Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1650005318 +0700	checkout: moving from master to master
+eb00b95d26e8f264af80f508d50ac32e50619027 eb00b95d26e8f264af80f508d50ac32e50619027 Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1651421976 +0700	checkout: moving from master to master
+eb00b95d26e8f264af80f508d50ac32e50619027 8f56a8bdf39d7727ab0e220f0164f78c77f9c50e Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1651421978 +0700	pull --quiet --rebase origin master: Fast-forward
+8f56a8bdf39d7727ab0e220f0164f78c77f9c50e 8f56a8bdf39d7727ab0e220f0164f78c77f9c50e Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1651421978 +0700	checkout: moving from master to master
+8f56a8bdf39d7727ab0e220f0164f78c77f9c50e 8f56a8bdf39d7727ab0e220f0164f78c77f9c50e Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1652752880 +0700	checkout: moving from master to master
+8f56a8bdf39d7727ab0e220f0164f78c77f9c50e 8f56a8bdf39d7727ab0e220f0164f78c77f9c50e Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1652879154 +0700	checkout: moving from master to master
+8f56a8bdf39d7727ab0e220f0164f78c77f9c50e 8f56a8bdf39d7727ab0e220f0164f78c77f9c50e Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1652879162 +0700	checkout: moving from master to master
+8f56a8bdf39d7727ab0e220f0164f78c77f9c50e 39b600e9e564db3dec265fcf2e3db4b5568dd93a Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1652879164 +0700	pull --quiet --rebase origin master: Fast-forward
+39b600e9e564db3dec265fcf2e3db4b5568dd93a 39b600e9e564db3dec265fcf2e3db4b5568dd93a Raksit Mantanacharu <raksit.man@Raksits-MacBook-Pro.local> 1652879164 +0700	checkout: moving from master to master
