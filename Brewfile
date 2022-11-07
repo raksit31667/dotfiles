@@ -40,6 +40,7 @@ brew "openjdk"
 brew "openssl@3"
 brew "pyenv"
 brew "rbenv"
+brew "rustup-init"
 brew "terraform", link: false
 brew "tfenv"
 brew "yarn"
