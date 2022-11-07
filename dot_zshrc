@@ -115,8 +115,7 @@ alias java17='export JAVA_HOME=$JAVA_17_HOME'
 java17
 
 # Python configuration
-if command -v pyenv 1>/dev/null 2>&1; then eval "$(pyenv init --path)"; fi
-if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -)"; fi
+eval "$(pyenv init -)"
 
 # Node.js configuration
 export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
@@ -127,3 +126,6 @@ eval "$(rbenv init -)"
 
 # direnv configuration
 eval "$(direnv hook zsh)"
+
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin:$HOME/.cargo/bin" 
+
