@@ -70,7 +70,7 @@ ZSH_THEME="spaceship"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions z)
+plugins=(git zsh-autosuggestions z asdf)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -135,4 +135,11 @@ export PATH=$PATH:$ANDROID_HOME/emulator
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 
 # Start colima
-colima start -c 8 -m 8 --kubernetes
+colima start -c 8 -m 8
+
+# Poetry configuration
+export PATH="/Users/raksit.man/.local/bin:$PATH"
+
+# .NET configuration
+export PATH="/usr/local/share/dotnet:$PATH"
+export PATH="/Users/raksit.man/.vscode-dotnet-sdk/.dotnet:$PATH"
