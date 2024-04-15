@@ -70,7 +70,7 @@ ZSH_THEME="spaceship"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions z asdf)
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting z asdf)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -111,8 +111,8 @@ alias java8='export JAVA_HOME=$JAVA_8_HOME'
 alias java11='export JAVA_HOME=$JAVA_11_HOME'
 alias java17='export JAVA_HOME=$JAVA_17_HOME'
 
-# default to Java 11
-java11
+# default to Java 17
+java17
 
 # Python configuration
 eval "$(pyenv init -)"
@@ -134,12 +134,21 @@ export ANDROID_HOME=$HOME/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/emulator
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 
+# Colima configuration
+export DOCKER_HOST="unix://${HOME}/.colima/default/docker.sock"
+
 # Start colima
-colima start -c 8 -m 8
+colima start -c 8 -m 8 --arch aarch64 --network-address
 
 # Poetry configuration
 export PATH="/Users/raksit.man/.local/bin:$PATH"
 
 # .NET configuration
 export PATH="/usr/local/share/dotnet:$PATH"
-export PATH="/Users/raksit.man/.vscode-dotnet-sdk/.dotnet:$PATH"
+export DOTNET_ROOT="/usr/local/share/dotnet"
+
+# Go configuration
+export GOPATH=$HOME/go
+export GOROOT="$(brew --prefix golang)/libexec"
+export PATH=$PATH:$GOPATH/bin
+export PATH=$PATH:$GOROOT/bin
